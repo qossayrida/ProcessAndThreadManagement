@@ -1,8 +1,8 @@
 # Process And Thread Management
 
-Matrix multiplication is a fundamental operation in linear algebra and has applications in various domains, such as computer graphics, scientific computing, and machine learning. This Task explores different approaches to optimize matrix multiplication in C, ranging from a naive serial implementation to parallel implementations using processes and threads.
-
 The primary objective is to compare the performance of different approaches to matrix multiplication, including a naive serial solution, a process-based solution, and various thread-based solutions. The focus is on achieving optimal execution time while maintaining correct results.
+
+Matrix multiplication is a fundamental operation in linear algebra and has applications in various domains, such as computer graphics, scientific computing, and machine learning. This Task explores different approaches to optimize matrix multiplication in C, ranging from a naive serial implementation to parallel implementations using processes and threads.
 
 ## Implemented Approaches:
 
@@ -26,7 +26,7 @@ The primary objective is to compare the performance of different approaches to m
 
 ## Sample run
 <p align="center">
-  <img width="720" height="405" src="">
+  <img width="720" height="405" src="https://github.com/qossayrida/ProcessAndThreadManagement/assets/59481839/e82b19ea-1712-4f9b-9a06-b47958e6f1de">
 </p>
 
 ## 🔗 Links
